@@ -1,6 +1,9 @@
 echo "# my-first-github" >> README.md
+# need initialized one time for each projects
 git init
+# for every time t add
 git add README.md
+#every time you commit
 git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:habib464/my-first-github.git
